@@ -1,0 +1,3 @@
+namespace GlobalPlayerScriptPlayer {};
+
+void GlobalPlayerScriptPlayerLoad() {}
